@@ -2,6 +2,8 @@
 
 Show GIF color table in terminal. (require true color support terminals)
 
+![](https://raw.githubusercontent.com/soh335/gifpalette/master/_example/screencapture.png)
+
 ## INSTALL
 
 ```
