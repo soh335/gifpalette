@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/900a0678c5a7c9d7c4b2aba503222beb/s/master "wercker status")](https://app.wercker.com/project/byKey/900a0678c5a7c9d7c4b2aba503222beb)
+
 # gifpalette
 
 Show GIF color table in terminal. (require true color support terminals)
